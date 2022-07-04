@@ -176,7 +176,7 @@ h1 {
     height: 100px;
     width: 7px;
     margin: 0.5rem 0.5rem 0.5rem 0.7rem;
-    background-color: #007bff;
+    background-color: rgb(75, 232, 180);
 }
 .progress-bar{
     background-color: #fff;
